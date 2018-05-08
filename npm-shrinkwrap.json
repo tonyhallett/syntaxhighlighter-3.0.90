@@ -264,12 +264,6 @@
       "integrity": "sha1-WWZ/QfrdTyDMvCu5a41Pf3jsA2c=",
       "dev": true
     },
-    "async": {
-      "version": "0.2.9",
-      "resolved": "https://registry.npmjs.org/async/-/async-0.2.9.tgz",
-      "integrity": "sha1-32MGD789Myhqdqr21Vophtn/hhk=",
-      "dev": true
-    },
     "async-done": {
       "version": "1.2.4",
       "resolved": "https://registry.npmjs.org/async-done/-/async-done-1.2.4.tgz",

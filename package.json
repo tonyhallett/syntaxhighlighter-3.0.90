@@ -15,7 +15,6 @@
     "url": "https://github.com/alexgorbatchev/SyntaxHighlighter.git"
   },
   "devDependencies": {
-    "async": "0.2.x",
     "del": "^3.0.0",
     "ejs": "^2.6.1",
     "express": "3.2.x",
