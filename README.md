@@ -18,11 +18,4 @@ I have changed to use gulp for building the project but have not provided a gulp
 1. Then `gulp` to build
 1. Look in the `pkg` folder for results!
 
-# Testing
 
-Testing is something that is still inherited from ages ago and is currently using QUnit. To test the project, it's a two step process:
-
-1. Start HTTP server `./node_modules/.bin/grunt test`
-1. Open browser on `http://localhost:3000` and go from there
-
-# Please see the [dev](https://github.com/alexgorbatchev/SyntaxHighlighter/tree/dev) branch
