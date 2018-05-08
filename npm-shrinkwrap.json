@@ -2328,9 +2328,9 @@
       }
     },
     "ejs": {
-      "version": "0.8.4",
-      "resolved": "https://registry.npmjs.org/ejs/-/ejs-0.8.4.tgz",
-      "integrity": "sha1-UuYXVeXpf7xa7rB99JpOBiv/MNU=",
+      "version": "2.6.1",
+      "resolved": "https://registry.npmjs.org/ejs/-/ejs-2.6.1.tgz",
+      "integrity": "sha512-0xy4A/twfrRCnkhfk8ErDi5DqdAsAqeGxht4xkCUrsvhhbQNs7E+4jV0CN7+NKIY0aHE72+XvqtBIXzD31ZbXQ==",
       "dev": true
     },
     "end-of-stream": {

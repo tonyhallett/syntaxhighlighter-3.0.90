@@ -18,9 +18,11 @@ var ejs = require('ejs');
 
 
 var baseDir       = __dirname;
+var outDirName="pkg";
 var componentsDir = path.resolve(baseDir,'components');
 var includesDir   = path.resolve(baseDir,'build/includes');
-
+var sourceDir=path.resolve(baseDir,'src');
+var sourceSassDir=path.resolve(sourceDir,'sass');
 
 
 //#region helpers
